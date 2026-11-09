@@ -27,29 +27,30 @@ var NAVTREE =
   [ "CMSIS-DSP", "index.html", [
     [ "Overview", "index.html", "index" ],
     [ "DSP++ extension", "dsppp_main.html", "dsppp_main" ],
+    [ "Autodiff", "autodiff_main.html", "autodiff_main" ],
     [ "Transform buffer sizes", "transformbuffers.html", [
-      [ "CFFT", "transformbuffers.html#autotoc_md36", [
-        [ "CFFT Temporary Buffer Size", "transformbuffers.html#autotoc_md37", null ],
-        [ "CFFT Output Buffer Size", "transformbuffers.html#autotoc_md38", null ],
-        [ "CIFFT Output Buffer Size", "transformbuffers.html#autotoc_md39", null ]
+      [ "CFFT", "transformbuffers.html#autotoc_md37", [
+        [ "CFFT Temporary Buffer Size", "transformbuffers.html#autotoc_md38", null ],
+        [ "CFFT Output Buffer Size", "transformbuffers.html#autotoc_md39", null ],
+        [ "CIFFT Output Buffer Size", "transformbuffers.html#autotoc_md40", null ]
       ] ],
-      [ "RFFT", "transformbuffers.html#autotoc_md40", [
-        [ "RFFT/RIFFT Temporary Buffer Size", "transformbuffers.html#autotoc_md41", null ],
-        [ "RFFT Output Buffer Size", "transformbuffers.html#autotoc_md42", null ],
-        [ "RIFFT Input Buffer Size", "transformbuffers.html#autotoc_md43", null ]
+      [ "RFFT", "transformbuffers.html#autotoc_md41", [
+        [ "RFFT/RIFFT Temporary Buffer Size", "transformbuffers.html#autotoc_md42", null ],
+        [ "RFFT Output Buffer Size", "transformbuffers.html#autotoc_md43", null ],
+        [ "RIFFT Input Buffer Size", "transformbuffers.html#autotoc_md44", null ]
       ] ],
-      [ "MFCC (CFFT based)", "transformbuffers.html#autotoc_md44", [
-        [ "MFCC Temporary Buffer Size 1", "transformbuffers.html#autotoc_md45", null ],
-        [ "MFCC Temporary Buffer Size 2", "transformbuffers.html#autotoc_md46", null ]
+      [ "MFCC (CFFT based)", "transformbuffers.html#autotoc_md45", [
+        [ "MFCC Temporary Buffer Size 1", "transformbuffers.html#autotoc_md46", null ],
+        [ "MFCC Temporary Buffer Size 2", "transformbuffers.html#autotoc_md47", null ]
       ] ],
-      [ "MFCC (RFFT based)", "transformbuffers.html#autotoc_md47", [
-        [ "MFCC Temporary Buffer Size 1", "transformbuffers.html#autotoc_md48", null ],
-        [ "MFCC Temporary Buffer Size 2", "transformbuffers.html#autotoc_md49", null ]
+      [ "MFCC (RFFT based)", "transformbuffers.html#autotoc_md48", [
+        [ "MFCC Temporary Buffer Size 1", "transformbuffers.html#autotoc_md49", null ],
+        [ "MFCC Temporary Buffer Size 2", "transformbuffers.html#autotoc_md50", null ]
       ] ]
     ] ],
+    [ "Examples", "examples_main.html", null ],
     [ "Revision History", "rev_hist.html", null ],
     [ "Deprecated List", "deprecated.html", null ],
-    [ "API Reference", "modules.html", "modules" ],
     [ "Data Structures", "annotated.html", [
       [ "Data Structures", "annotated.html", "annotated_dup" ]
     ] ]
@@ -59,17 +60,9 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"group__COMMON.html",
-"group__FIXED.html#ga27217ada53c40424a1f02485b4037d45",
-"group__FUSION.html#ga5e94654d3f1f670867fb8957577396dc",
-"group__LD.html",
-"group__Matrix.html#ab7c0b49d5a9fc39d067a404c09e031ab",
-"group__QuatRot.html",
-"group__VECTOR.html#structarm__cmsis__dsp_1_1Vector_3_01P_00_01DYNAMIC_00_01Allocator_01_4",
-"group__variance.html#ga0ece08da589f4649bfa4c8445dc05132",
-"structarm__fir__instance__q15.html#ae85d417edcdce57e9a54f8c841580578",
-"structarm__spline__instance__f32.html#a6ceaa0b32c96a0b5be445ae8b51035ef"
+"structarm__cfft__radix2__instance__f32.html#afe772e5b5001c9d8e85032115a8df5bf",
+"structarm__matrix__instance__q31.html#a4bb5ec0d13eb4c9cf887aa8366a44117"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
+var SYNCONMSG = 'click to disable panel synchronization';
+var SYNCOFFMSG = 'click to enable panel synchronization';

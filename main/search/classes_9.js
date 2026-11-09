@@ -1,13 +1,16 @@
 var searchData=
 [
-  ['q_0',['Q',['../group__FIXED.html#structarm__cmsis__dsp_1_1Q',1,'arm_cmsis_dsp']]],
-  ['q15dspvector_1',['Q15DSPVector',['../group__DSPQ15Number.html#structQ15DSPVector',1,'']]],
-  ['q_3c_20m_2c_20f_2c_20false_2c_20uint16_5ft_20_3e_2',['Q&lt; M, F, false, uint16_t &gt;',['../group__FIXED.html#structarm__cmsis__dsp_1_1Q_3_01M_00_01F_00_01false_00_01uint16__t_01_4',1,'arm_cmsis_dsp']]],
-  ['q_3c_20m_2c_20f_2c_20false_2c_20uint32_5ft_20_3e_3',['Q&lt; M, F, false, uint32_t &gt;',['../group__FIXED.html#structarm__cmsis__dsp_1_1Q_3_01M_00_01F_00_01false_00_01uint32__t_01_4',1,'arm_cmsis_dsp']]],
-  ['q_3c_20m_2c_20f_2c_20false_2c_20uint64_5ft_20_3e_4',['Q&lt; M, F, false, uint64_t &gt;',['../group__FIXED.html#structarm__cmsis__dsp_1_1Q_3_01M_00_01F_00_01false_00_01uint64__t_01_4',1,'arm_cmsis_dsp']]],
-  ['q_3c_20m_2c_20f_2c_20false_2c_20uint8_5ft_20_3e_5',['Q&lt; M, F, false, uint8_t &gt;',['../group__FIXED.html#structarm__cmsis__dsp_1_1Q_3_01M_00_01F_00_01false_00_01uint8__t_01_4',1,'arm_cmsis_dsp']]],
-  ['q_3c_20m_2c_20f_2c_20true_2c_20int16_5ft_20_3e_6',['Q&lt; M, F, true, int16_t &gt;',['../group__FIXED.html#structarm__cmsis__dsp_1_1Q_3_01M_00_01F_00_01true_00_01int16__t_01_4',1,'arm_cmsis_dsp']]],
-  ['q_3c_20m_2c_20f_2c_20true_2c_20int32_5ft_20_3e_7',['Q&lt; M, F, true, int32_t &gt;',['../group__FIXED.html#structarm__cmsis__dsp_1_1Q_3_01M_00_01F_00_01true_00_01int32__t_01_4',1,'arm_cmsis_dsp']]],
-  ['q_3c_20m_2c_20f_2c_20true_2c_20int64_5ft_20_3e_8',['Q&lt; M, F, true, int64_t &gt;',['../group__FIXED.html#structarm__cmsis__dsp_1_1Q_3_01M_00_01F_00_01true_00_01int64__t_01_4',1,'arm_cmsis_dsp']]],
-  ['q_3c_20m_2c_20f_2c_20true_2c_20int8_5ft_20_3e_9',['Q&lt; M, F, true, int8_t &gt;',['../group__FIXED.html#structarm__cmsis__dsp_1_1Q_3_01M_00_01F_00_01true_00_01int8__t_01_4',1,'arm_cmsis_dsp']]]
+  ['malloc_5fallocator_0',['malloc_allocator',['../group__MEMORY.html#structarm__cmsis__dsp_1_1malloc__allocator',1,'arm_cmsis_dsp']]],
+  ['maskeddotsum_1',['MaskedDotSum',['../structarm__cmsis__dsp_1_1MaskedDotSum.html',1,'arm_cmsis_dsp']]],
+  ['matrix_2',['Matrix',['../group__Matrix.html#structarm__cmsis__dsp_1_1Matrix',1,'arm_cmsis_dsp']]],
+  ['matrix_3c_20dotfieldresult_3c_20ma_2c_20mb_20_3e_2c_20nbrows_2c_20nbcols_2c_20malloc_5fallocator_20_3e_3',['Matrix&lt; DotFieldResult&lt; MA, MB &gt;, nbrows, nbcols, malloc_allocator &gt;',['../group__Matrix.html',1,'arm_cmsis_dsp']]],
+  ['matrix_3c_20p_2c_20dynamic_2c_20dynamic_2c_20allocator_20_3e_4',['Matrix&lt; P, DYNAMIC, DYNAMIC, Allocator &gt;',['../group__Matrix.html#structarm__cmsis__dsp_1_1Matrix_3_01P_00_01DYNAMIC_00_01DYNAMIC_00_01Allocator_01_4',1,'arm_cmsis_dsp']]],
+  ['matrixmultiplyoperator_5',['MatrixMultiplyOperator',['../classarm__cmsis__dsp_1_1autodiff_1_1MatrixMultiplyOperator.html',1,'arm_cmsis_dsp::autodiff']]],
+  ['matrixview_6',['MatrixView',['../classarm__cmsis__dsp_1_1autodiff_1_1MatrixView.html',1,'MatrixView&lt; T &gt;'],['../group__Matrix.html#structarm__cmsis__dsp_1_1MatrixView',1,'MatrixView&lt; T, S &gt;']]],
+  ['matrixview_3c_20float_20_3e_7',['MatrixView&lt; float &gt;',['../classarm__cmsis__dsp_1_1autodiff_1_1MatrixView.html',1,'arm_cmsis_dsp::autodiff']]],
+  ['matrixview_3c_20p_2c_20constrained_5fdynamic_20_3e_8',['MatrixView&lt; P, CONSTRAINED_DYNAMIC &gt;',['../group__Matrix.html',1,'arm_cmsis_dsp']]],
+  ['matrixview_3c_20t_2c_20constrained_5fdynamic_20_3e_9',['MatrixView&lt; T, CONSTRAINED_DYNAMIC &gt;',['../group__Matrix.html#structarm__cmsis__dsp_1_1MatrixView_3_01T_00_01CONSTRAINED__DYNAMIC_01_4',1,'arm_cmsis_dsp']]],
+  ['matrixview_3c_20t_2c_20dynamic_20_3e_10',['MatrixView&lt; T, DYNAMIC &gt;',['../group__Matrix.html#structarm__cmsis__dsp_1_1MatrixView_3_01T_00_01DYNAMIC_01_4',1,'arm_cmsis_dsp']]],
+  ['matrixview_3c_20t_2c_20s_20_3e_11',['MatrixView&lt; T, S &gt;',['../group__Matrix.html',1,'arm_cmsis_dsp']]],
+  ['memorypool_12',['MemoryPool',['../group__MEMORY.html#classarm__cmsis__dsp_1_1MemoryPool',1,'arm_cmsis_dsp']]]
 ];
